@@ -3,7 +3,11 @@
 Dataset: https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rates/?lookupPage=lookup_canadian_interest.php&startRange=2013-03-26&rangeType=dates&dFrom=2020-03-01&dTo=2023-03-26&rangeValue=1&rangeWeeklyValue=1&rangeMonthlyValue=1&ByDate_frequency=daily&submit_button=Submit
 
  ## Overview of the analysis
-1.	Read csv file, and extract data for coding
+1.	Read csv file, and extract data for coding using python.
+2.	Clean data to highlight key elements.
+3.	Export new tables as csv files.
+4.	Use printing formats to add printing statements in script.
+5.	Using plotly to create bar graph based on average interest rates. 
 	
  
  ## Purpose and Analysis
