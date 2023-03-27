@@ -7,7 +7,9 @@ Dataset: https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rate
 	
  
  ## Purpose and Analysis
+ The purpose is to compare average interest rates in Canada from 2020 - 2023. Identifying the differences and increases may help curb soaring prices rates, resulting in everyday financial products more expensive, including mortgages, personal loans and credit cards. 
  
  ## Results
  
  ## Summary
+in 2020 the average interate rate was 0.33%, in 2023 in increased to 4.43%. 
