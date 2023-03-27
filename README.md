@@ -11,8 +11,8 @@ Dataset: https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rate
  
  ## Results
 Canada experienced approximately a 672% jump between 2021 and 2022, and a further 130% increase between 2022 and 2023.
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Stookhy/Bank_of_Canada_Interest_Rates/blob/main/Resources/Average%20Interests:year.png?raw=true)
+![This is an image](https://github.com/Stookhy/Bank_of_Canada_Interest_Rates/blob/main/Resources/Average:year.png?raw=true)
  
  ## Summary
 Since 2021, average interest rates in Canada have significanty increased.  This is following a relatively modest decrease between 2020 and 2021. 
